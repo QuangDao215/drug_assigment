@@ -42,8 +42,8 @@ PDF Input → PDF Processor → Text Chunks → LLM Extractor → Compounds
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/compound-extraction-pipeline.git
-cd compound-extraction-pipeline
+git clone https://github.com/QuangDao215/drug_assigment.git
+cd drug_assigment
 
 # Install dependencies
 pip install -r requirements.txt
@@ -122,12 +122,6 @@ compound-extraction-pipeline/
 - Rate limiting
 - Error recovery
 
-## 📈 Results
-
-From 11 research papers:
-- **Total compounds extracted**: ~500+
-- **Average processing time**: 45 seconds/paper
-- **Validation score**: 88% average
 
 ## 🔄 Validation Approach
 
@@ -143,33 +137,8 @@ From 11 research papers:
    - Validation issues
    - Completeness of data
 
-## 🚧 Future Improvements
-
-1. **Accuracy Enhancements**:
-   - Fine-tune prompts for specific compound types
-   - Improve fatty acid extraction
-   - Better handling of complex table formats
-
-2. **Scalability**:
-   - Parallel processing
-   - Caching mechanisms
-   - Database integration
-
-3. **Active Learning**:
-   - Learn from validation feedback
-   - Prompt refinement based on errors
-   - Model fine-tuning
-
 ## 📝 Notes
 
 - Currently uses Groq API (Llama 3.1) for cost efficiency
 - Can be adapted to use OpenAI GPT-4 by modifying `groq_extractor.py`
 - Optimized for chemistry papers with isolation and analytical data
-
-## 📄 License
-
-MIT License
-
-## 👥 Contributors
-
-[Your Name]
