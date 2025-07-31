@@ -1,0 +1,23 @@
+{
+  "paper_id": "00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392",
+  "compound_count": 1,
+  "valid_compound_count": 1,
+  "validation_score": 1.0,
+  "compounds": [
+    {
+      "compound_name": "tyrosylproline anhydride",
+      "species": "Alternaria alternata",
+      "species_normalized": "Alternaria alternata",
+      "organism": "spotted knapweed",
+      "organism_normalized": "spotted knapweed",
+      "amount_value": 3.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 1.0
+    }
+  ],
+  "validation_issues": 0,
+  "issue_summary": {},
+  "processing_time": 149.798633
+}

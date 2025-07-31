@@ -1,0 +1,61 @@
+{
+  "paper_id": "1c7edf8267f9c18a37d50e2c00395f66-p19880002607",
+  "compound_count": 4,
+  "valid_compound_count": 4,
+  "validation_score": 1.0,
+  "compounds": [
+    {
+      "compound_name": "paspaline",
+      "species": "unknown",
+      "species_normalized": "unknown",
+      "organism": "unknown",
+      "organism_normalized": "unknown",
+      "amount_value": 18.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.8
+    },
+    {
+      "compound_name": "dehydroxypaxilline",
+      "species": "unknown",
+      "species_normalized": "unknown",
+      "organism": "unknown",
+      "organism_normalized": "unknown",
+      "amount_value": 71.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.8
+    },
+    {
+      "compound_name": "emindole SB",
+      "species": "unknown",
+      "species_normalized": "unknown",
+      "organism": "unknown",
+      "organism_normalized": "unknown",
+      "amount_value": 52.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.8
+    },
+    {
+      "compound_name": "emindole SB",
+      "species": "Paspaline",
+      "species_normalized": "Paspaline",
+      "organism": "leaflets",
+      "organism_normalized": "leaflets",
+      "amount_value": 52.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.8
+    }
+  ],
+  "validation_issues": 4,
+  "issue_summary": {
+    "invalid_format": 4
+  },
+  "processing_time": 170.677676
+}

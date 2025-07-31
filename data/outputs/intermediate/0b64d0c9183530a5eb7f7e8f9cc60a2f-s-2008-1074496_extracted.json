@@ -1,0 +1,109 @@
+{
+  "paper_id": "0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496",
+  "compound_count": 8,
+  "valid_compound_count": 8,
+  "validation_score": 1.0,
+  "compounds": [
+    {
+      "compound_name": "9",
+      "species": "Aloe vera",
+      "species_normalized": "Aloe vera",
+      "organism": "plant",
+      "organism_normalized": "plant",
+      "amount_value": 50.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 1.0
+    },
+    {
+      "compound_name": "11",
+      "species": "Aloe vera",
+      "species_normalized": "Aloe vera",
+      "organism": "plant",
+      "organism_normalized": "plant",
+      "amount_value": 140.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.6
+    },
+    {
+      "compound_name": "12",
+      "species": "Aloe vera",
+      "species_normalized": "Aloe vera",
+      "organism": "plant",
+      "organism_normalized": "plant",
+      "amount_value": 7.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.6
+    },
+    {
+      "compound_name": "C-2\u2032-Decoumaroyl-aloeresin G",
+      "species": "unknown",
+      "species_normalized": "unknown",
+      "organism": "unknown",
+      "organism_normalized": "unknown",
+      "amount_value": 5.4,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.7000000000000001
+    },
+    {
+      "compound_name": "2\u2032-O-Coumaroyl-(S)-aloesinol",
+      "species": "unknown",
+      "species_normalized": "unknown",
+      "organism": "unknown",
+      "organism_normalized": "unknown",
+      "amount_value": 1.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.7000000000000001
+    },
+    {
+      "compound_name": "10",
+      "species": "A. nobilis",
+      "species_normalized": "A. nobilis",
+      "organism": "leaves",
+      "organism_normalized": "leaves",
+      "amount_value": 40.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.6
+    },
+    {
+      "compound_name": "11",
+      "species": "A. nobilis",
+      "species_normalized": "A. nobilis",
+      "organism": "leaves",
+      "organism_normalized": "leaves",
+      "amount_value": 140.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.6
+    },
+    {
+      "compound_name": "12",
+      "species": "A. nobilis",
+      "species_normalized": "A. nobilis",
+      "organism": "leaves",
+      "organism_normalized": "leaves",
+      "amount_value": 7.0,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.6
+    }
+  ],
+  "validation_issues": 7,
+  "issue_summary": {
+    "invalid_format": 7
+  },
+  "processing_time": 474.935382
+}

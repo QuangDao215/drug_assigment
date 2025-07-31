@@ -1,0 +1,47 @@
+{
+  "paper_id": "0f290f38960024792a0d2f9992f3b674-2803_252900251-4",
+  "compound_count": 3,
+  "valid_compound_count": 3,
+  "validation_score": 1.0,
+  "compounds": [
+    {
+      "compound_name": "ajubractin A",
+      "species": "Ajuga bracteosa",
+      "species_normalized": "Ajuga bracteosa",
+      "organism": "aerial parts",
+      "organism_normalized": "aerial parts",
+      "amount_value": 4.5,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.7999999999999999
+    },
+    {
+      "compound_name": "ajubractin C",
+      "species": "Ajuga bracteosa",
+      "species_normalized": "Ajuga bracteosa",
+      "organism": "aerial parts",
+      "organism_normalized": "aerial parts",
+      "amount_value": 14.7,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.7999999999999999
+    },
+    {
+      "compound_name": "15-hydroxyajubractin C",
+      "species": "Ajuga bracteosa",
+      "species_normalized": "Ajuga bracteosa",
+      "organism": "aerial parts",
+      "organism_normalized": "aerial parts",
+      "amount_value": 3.1,
+      "amount_unit": "mg",
+      "amount_unit_type": "mass",
+      "paper_id": "extracted",
+      "confidence_score": 0.7999999999999999
+    }
+  ],
+  "validation_issues": 0,
+  "issue_summary": {},
+  "processing_time": 259.054827
+}

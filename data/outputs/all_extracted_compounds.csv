@@ -1,0 +1,160 @@
+compound_name,species,species_normalized,organism,organism_normalized,amount_value,amount_unit,amount_unit_type,paper_id,confidence_score,validation_score,validation_issues
+tyrosylproline anhydride,Alternaria alternata,Alternaria alternata,spotted knapweed,spotted knapweed,3.0,mg,mass,00c735fc8eb3dee1b6497b89b04ae7d4-toxins5081392,1.0,1.0,0
+9,Aloe vera,Aloe vera,plant,plant,50.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,1.0,1.0,7
+11,Aloe vera,Aloe vera,plant,plant,140.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.6,1.0,7
+12,Aloe vera,Aloe vera,plant,plant,7.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.6,1.0,7
+C-2′-Decoumaroyl-aloeresin G,unknown,unknown,unknown,unknown,5.4,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.7000000000000001,1.0,7
+2′-O-Coumaroyl-(S)-aloesinol,unknown,unknown,unknown,unknown,1.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.7000000000000001,1.0,7
+10,A. nobilis,A. nobilis,leaves,leaves,40.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.6,1.0,7
+11,A. nobilis,A. nobilis,leaves,leaves,140.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.6,1.0,7
+12,A. nobilis,A. nobilis,leaves,leaves,7.0,mg,mass,0b64d0c9183530a5eb7f7e8f9cc60a2f-s-2008-1074496,0.6,1.0,7
+norcaesalpinin E,Caesalpinia crista,Caesalpinia crista,seed kernels,seed kernels,90.0,nM,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.6,1.0,18
+caesalpinin F,unknown,unknown,naturalsources,naturalsources,7.6,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+7-acetxybonducellpin C,unknown,unknown,naturalsources,naturalsources,241.0,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalpinin G,unknown,unknown,naturalsources,naturalsources,1.5,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalmin G,unknown,unknown,naturalsources,naturalsources,1.9,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+2-acetoxy-3-deacetoxycaesaldekarine,unknown,unknown,naturalsources,naturalsources,414.0,unknown,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+dehydrocaesalpin F,unknown,unknown,naturalsources,naturalsources,15.0,unknown,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+2-acetoxycaesaldekarine,unknown,unknown,naturalsources,naturalsources,2.8,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+2-acetoxy-3-deacetoxycaesaldekarin e4,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,8.0,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalpinin A,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,32.9,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+norcaesalpinin C,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,5.9,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalmin B6,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,3.5,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesaldekarine6,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,20.3,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+norcaesalpinin B,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,19.7,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalpinin C,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,19.7,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+caesalpin F7,C. falciparum FCR-3/A2 clone,C. falciparum FCR-3/A2 clone,culture,culture,3.4,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.8,1.0,18
+13,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,4.4,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+14(17)-dehydrocaesalpin,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,17.0,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+2-acetoxycaesaldekarin e7,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,6.0,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+7-acetylbonducellpin C8,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,4.4,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+caesalpinin D,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,0.8,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+norcaesalpinin D,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,9.3,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.6,1.0,18
+2,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,5.5,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+5,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,1.4,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+6,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,4.6,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+9,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,2.9,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+17,Cesalpinia cristata,Cesalpinia cristata,aerial parts,aerial parts,10.2,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+ajubractin A,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,4.5,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+ajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,14.7,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+15-hydroxyajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,3.1,mg,mass,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,1.0,1.0,18
+caesalpinin E,Caesalpinia,Caesalpinia,seed kernels,seed kernels,7.0,None,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.6,1.0,18
+norcaesalpinin D,Caesalpinia,Caesalpinia,seed kernels,seed kernels,7.0,None,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.6,1.0,18
+norcaesalpinin E,Caesalpinia,Caesalpinia,seed kernels,seed kernels,7.0,None,unknown,0bd3f18ffd92e5f25b58cc4c70dc0e1e-np0401720,0.6,1.0,18
+(E)-methyl3-(4-methoxyphenoxy)propenoate,not specified,not specified,not specified,not specified,672.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin B,Punctaporonin B,Punctaporonin,culture,culture,420.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin F,Punctaporonin F,Punctaporonin,culture,culture,35.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin A diacetate,Punctaporonin A,Punctaporonin,culture,culture,45.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctuporonin E,Punctuporonin E,Punctuporonin,culture,culture,220.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctuporonin E,unknown,unknown,unknown,unknown,220.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctuporonin C,unknown,unknown,unknown,unknown,330.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin D,unknown,unknown,unknown,unknown,128.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin D diacetate,unknown,unknown,unknown,unknown,47.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+keto lactone (15),unknown,unknown,unknown,unknown,22.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+keto lactone (17),unknown,unknown,unknown,unknown,29.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin D,unknown,unknown,unknown,unknown,18.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin D diacetate,unknown,unknown,unknown,unknown,18.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin B monoacetate,unknown,unknown,unknown,unknown,10.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+ketone,unknown,unknown,unknown,unknown,13.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin F,unknown,unknown,unknown,unknown,12.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin E,unknown,unknown,unknown,unknown,35.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin E Acetone Ketal,unknown,unknown,unknown,unknown,22.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+the keto lactone,unknown,unknown,unknown,unknown,10.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+the ketone (3),unknown,unknown,unknown,unknown,18.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin E acetonide,Punctaporonin A,Punctaporonin,unknown,unknown,9.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin A,Punctaporonin A,Punctaporonin,unknown,unknown,30.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin F,Punctaporonin A,Punctaporonin,unknown,unknown,26.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin E,Punctaporonin A,Punctaporonin,unknown,unknown,58.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin D,Punctaporonin A,Punctaporonin,unknown,unknown,51.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin E acetonide,Punctaporonin E,Punctaporonin,Punctaporonin E,punctaporonin e,39.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin A,Punctaporonin A,Punctaporonin,Punctaporonin A,punctaporonin a,6.3,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin F,Punctaporonin F,Punctaporonin,Punctaporonin F,punctaporonin f,19.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin E,Punctaporonin E,Punctaporonin,Punctaporonin E,punctaporonin e,9.3,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.8,1.0,47
+punctaporonin D,Punctaporonin D,Punctaporonin,Punctaporonin D,punctaporonin d,10.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+hydroxy Zactone,unknown,unknown,unknown,unknown,16.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin A,unknown,unknown,unknown,unknown,240.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin D,unknown,unknown,unknown,unknown,140.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin F,unknown,unknown,unknown,unknown,20.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+keto lactone,unknown,unknown,unknown,unknown,10.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin B aldehyde,unknown,unknown,unknown,unknown,70.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin C,unknown,unknown,unknown,unknown,200.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin C Methyl Ester,unknown,unknown,unknown,unknown,200.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+trio1,unknown,unknown,unknown,unknown,17.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+p-methoxyphenol,unknown,unknown,unknown,unknown,55.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+(E)-3-(4-methoxyphenoxy)propenoic acid,unknown,unknown,unknown,unknown,30.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+punctaporonin C methyl ester,unknown,unknown,unknown,unknown,134.0,mg,mass,0d5340808c611f9cd52e1797fdd7835b-p19880000823,0.6,1.0,47
+ajubractin A,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,4.5,mg,mass,0f290f38960024792a0d2f9992f3b674-2803_252900251-4,0.7999999999999999,1.0,0
+ajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,14.7,mg,mass,0f290f38960024792a0d2f9992f3b674-2803_252900251-4,0.7999999999999999,1.0,0
+15-hydroxyajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,3.1,mg,mass,0f290f38960024792a0d2f9992f3b674-2803_252900251-4,0.7999999999999999,1.0,0
+paspaline,unknown,unknown,unknown,unknown,18.0,mg,mass,1c7edf8267f9c18a37d50e2c00395f66-p19880002607,0.8,1.0,4
+dehydroxypaxilline,unknown,unknown,unknown,unknown,71.0,mg,mass,1c7edf8267f9c18a37d50e2c00395f66-p19880002607,0.8,1.0,4
+emindole SB,unknown,unknown,unknown,unknown,52.0,mg,mass,1c7edf8267f9c18a37d50e2c00395f66-p19880002607,0.8,1.0,4
+emindole SB,Paspaline,Paspaline,leaflets,leaflets,52.0,mg,mass,1c7edf8267f9c18a37d50e2c00395f66-p19880002607,0.8,1.0,4
+"3,5-dihydroxy-4-methoxybenzaldehyde",unspecified,unspecified,unspecified,unspecified,1.2,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.6,1.0,5
+ajubractin A,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,4.5,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.7999999999999999,1.0,5
+ajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,14.7,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.7999999999999999,1.0,5
+15-hydroxyajubractin C,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,3.1,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.7999999999999999,1.0,5
+ajubractin D,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,2.5,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.7999999999999999,1.0,5
+ajubractin E,Ajuga bracteosa,Ajuga bracteosa,aerial parts,aerial parts,1.8,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.7999999999999999,1.0,5
+6,unknown,unknown,unknown,unknown,3.1,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.6,1.0,5
+1,not specified,not specified,not specified,not specified,0.5,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.6,1.0,5
+2,not specified,not specified,not specified,not specified,0.8,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.6,1.0,5
+3,not specified,not specified,not specified,not specified,1.2,mg,mass,1e92e54c47ef6bcb6e6f5388dc9ea915-s-2007-981549,0.6,1.0,5
+Phosphatidylcholine,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,19.9,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylcholine,Ribes nigrum L,Ribes nigrum,seeds,seeds,34.7,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylcholine,Rosa canina L,Rosa canina,seeds,seeds,46.3,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylinositol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,29.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylinositol,Ribes nigrum L,Ribes nigrum,seeds,seeds,20.6,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylinositol,Rosa canina L,Rosa canina,seeds,seeds,20.7,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylethanolamine,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,16.6,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylethanolamine,Ribes nigrum L,Ribes nigrum,seeds,seeds,11.2,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidylethanolamine,Rosa canina L,Rosa canina,seeds,seeds,12.2,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidicacids,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,15.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidicacids,Ribes nigrum L,Ribes nigrum,seeds,seeds,7.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Phosphatidicacids,Rosa canina L,Rosa canina,seeds,seeds,4.3,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Cholesterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.6,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Cholesterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.9,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Cholesterol,Rosa canina L,Rosa canina,seeds,seeds,0.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Campesterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,6.0,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Campesterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,1.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Campesterol,Rosa canina L,Rosa canina,seeds,seeds,1.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Brassicasterol,Rosa canina L,Rosa canina,seeds,seeds,5.4,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,2.6,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,6.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Rosa canina L,Rosa canina,seeds,seeds,3.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Sitosterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,89.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Sitosterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,87.3,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Sitosterol,Rosa canina L,Rosa canina,seeds,seeds,81.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D5-Avenasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D5-Avenasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,1.3,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D5-Avenasterol,Rosa canina L,Rosa canina,seeds,seeds,4.6,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D7-Stigmasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.5,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D7-Stigmasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.9,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D7.25-Stigmasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.01,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.75,1.0,6
+D7.25-Stigmasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,1.1,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.75,1.0,6
+D7.25-Stigmasterol,Rosa canina L,Rosa canina,seeds,seeds,1.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.75,1.0,6
+D7-Avenasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.01,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D7-Avenasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.01,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+D7-Avenasterol,Rosa canina L,Rosa canina,seeds,seeds,0.9,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+α-Tocopherol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,70.6,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+α-Tocopherol,Ribes nigrum L,Ribes nigrum,seeds,seeds,36.9,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+α-Tocopherol,Rosa canina L,Rosa canina,seeds,seeds,19.0,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+α-Tocotrienol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.1,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+α-Tocotrienol,Rosa canina L,Rosa canina,seeds,seeds,3.0,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Tocopherol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,28.2,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Tocopherol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.2,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocopherol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.2,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocopherol,Ribes nigrum L,Ribes nigrum,seeds,seeds,55.4,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocopherol,Rosa canina L,Rosa canina,seeds,seeds,71.0,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocotrienol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.8,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocotrienol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.2,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+γ-Tocotrienol,Rosa canina L,Rosa canina,seeds,seeds,2.5,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.01,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Ribes nigrum L,Ribes nigrum,seeds,seeds,1.1,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+Stigmasterol,Rosa canina L,Rosa canina,seeds,seeds,1.8,g/kg oil,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Tocotrienol,Ribes nigrum L,Ribes nigrum,seeds,seeds,0.3,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+β-Tocotrienol,Rosa canina L,Rosa canina,seeds,seeds,0.7,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+δ-Tocopherol,Aronia melanocarpa L,Aronia melanocarpa,seeds,seeds,0.2,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+δ-Tocopherol,Ribes nigrum L,Ribes nigrum,seeds,seeds,6.9,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+δ-Tocopherol,Rosa canina L,Rosa canina,seeds,seeds,1.8,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6
+δ-Tocotrienol,Rosa canina L,Rosa canina,seeds,seeds,2.0,mg/kg,mass_per_mass,J Sci Food Agric - 1999 - Zlatanov - Lipid composition of Bulgarian chokeberry  black currant and rose hip seed oils,0.95,1.0,6

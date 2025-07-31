@@ -1,0 +1,16 @@
+openai:
+  api_key: ${OPENAI_API_KEY}  # Will read from environment variable
+  model: "gpt-4-turbo-preview"  # or "gpt-4" depending on your access
+  temperature: 0.1  # Low temperature for consistent extraction
+  max_tokens: 2000
+  retry_attempts: 3
+  retry_delay: 2  # seconds
+
+extraction:
+  chunk_size: 2000
+  chunk_overlap: 200
+  batch_size: 5  # Number of chunks to process in parallel
+  
+validation:
+  min_confidence_score: 0.7
+  require_units: true
